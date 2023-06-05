@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yinghan Sun"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yinghan Sun"
-  avatar           : "./images/photoc.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Yinghan Sun \n 孙英涵"
+  avatar           : "photoc.jpg"
+  bio              : "MS Student, Southern University of Science and Technology (SUSTech)"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -261,14 +261,14 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 plugins:
   - jekyll-paginate
-  # - jekyll-sitemap
+  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  # - jekyll-sitemap
+  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
