@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yinghan Sun"
-  avatar           : "photoc.jpg"
+  avatar           : "./images/photoc.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Shenzhen, China"
   employer         :
