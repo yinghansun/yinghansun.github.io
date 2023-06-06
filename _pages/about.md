@@ -54,3 +54,11 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+
+Teaching
+------
+- **Teaching assistant** in ME424 Modern Control and Estimation, SUSTech. 
+    
+    *Course introduction*: This course will introduce the students to the fundamental concepts and methods in modern control and estimation theory. Topics include state-space modeling of dynamical systems, least-square estimation and system identification, state-feedback and output-feedback controller design, observer design, linear quadratic regulators, and Kalman filter. The course will also connect these control and estimation methods to applications in robotics, mechanical, electrical, and aerospace systems.
+    
+    [[course website]](https://www.wzhanglab.site/teaching/moderncontrolestimation/) [[recordings (Youtube)]](https://www.youtube.com/watch?v=7tt-SPHPAMM&list=PLYkCanigA7S4N4FAXu4ABmwuC7yHDL6_v&index=1) [[recordings (Bilibili)]](https://space.bilibili.com/474380277/channel/seriesdetail?sid=291615)
