@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yinghan Sun"
+title                    : "Yinghan Sun (孙英涵)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yinghan Sun \n 孙英涵"
+  name             : "Yinghan Sun"
   avatar           : "photoc.jpg"
   bio              : "MS Student, Southern University of Science and Technology (SUSTech)"
   location         : "Shenzhen, China"

@@ -19,7 +19,7 @@
 
 
 
-<title>Yinghan Sun</title>
+<title>Yinghan Sun (孙英涵)</title>
 
 
 
@@ -28,8 +28,8 @@
 
 
 <meta property="og:locale" content="en-US">
-<meta property="og:site_name" content="Yinghan Sun">
-<meta property="og:title" content="Yinghan Sun">
+<meta property="og:site_name" content="Yinghan Sun (孙英涵)">
+<meta property="og:title" content="Yinghan Sun (孙英涵)">
 
 
   <link rel="canonical" href="http://localhost:4000/">
@@ -76,7 +76,7 @@
 <!-- end SEO -->
 
 
-<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Yinghan Sun Feed">
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Yinghan Sun (孙英涵) Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -145,7 +145,10 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="http://localhost:4000/">Yinghan Sun</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="http://localhost:4000/">Yinghan Sun (孙英涵)</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/about/">About</a></li>
           
         </ul>
         <ul class="hidden-links hidden"></ul>
@@ -173,14 +176,12 @@
 
   <div class="author__avatar">
     
-    	<img src="http://localhost:4000/images/photoc.jpg" class="author__avatar" alt="Yinghan Sun 
- 孙英涵">
+    	<img src="http://localhost:4000/images/photoc.jpg" class="author__avatar" alt="Yinghan Sun">
     
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">Yinghan Sun 
- 孙英涵</h3>
+    <h3 class="author__name">Yinghan Sun</h3>
     <p class="author__bio">MS Student, Southern University of Science and Technology (SUSTech)</p>
   </div>
 
@@ -255,15 +256,25 @@
       
 
       <section class="page__content" itemprop="text">
-        <p>test</p>
+        <!-- About Me
+------ -->
+<p>I am a master student at <a href="https://sustech.edu.cn/en/">Southern University of Science and Technology</a> (SUSTech), advised by <a href="https://sustech.edu.cn/en/faculties/zhangwei-2.html">Dr. Wei Zhang</a> and <a href="https://sustech.edu.cn/en/faculties/chenhua.html">Dr. Hua Chen</a>. Before that, I obtained my B.E. degree in Robotics Engineering in 2021 from SUSTech. Currently, my research interests lie in perceptive locomotion of legged robot and deep reinforcement learning.</p>
 
 <h2 id="publications">Publications</h2>
+<style>
+table th:first-of-type {
+    width: 30%;
+}
+table th:nth-of-type(2) {
+    width: 70%;
+}
+</style>
 
 <table>
   <thead>
     <tr>
       <th style="text-align: center">Overview</th>
-      <th style="text-align: left"><center>Introduction</center></th>
+      <th style="text-align: left"><center>Information</center></th>
     </tr>
   </thead>
   <tbody>
@@ -272,23 +283,42 @@
       <td style="text-align: left"><strong>Plane Segmentation on Uneven Terrains by Divide-and-Conquer</strong> <br /> <strong>Yinghan Sun</strong>, Linfang Zheng, Hua Chen, Wei Zhang <br /> under review</td>
     </tr>
     <tr>
-      <td style="text-align: center"><img src="https://github.com/yinghansun/yinghansun.github.io/blob/main/images/publications/pose_framework_v3.png" alt="" /></td>
-      <td style="text-align: left"><strong>HS-Pose: Hybrid Scope Feature Extraction for Category-level Object Pose Estimation</strong> <br /> Linfang Zheng, Chen Wang, <strong>Yinghan Sun</strong>, Esha Dasgupta, Hua Chen, Aleš Leonardis, Wei Zhang, Hyung Jin Chang <br /> CVPR, 2023 <br /> <a href="https://lynne-zheng-linfang.github.io/hspose.github.io/">[project page]</a> <a href="https://lynne-zheng-linfang.github.io/hspose.github.io/static/pdfs/main_paper.pdf">[paper]</a> <a href="https://github.com/Lynne-Zheng-Linfang/HS-Pose">[code]</a></td>
+      <td style="text-align: center"><img src="/images/publications/hs_pose_teaser.png" alt="" /></td>
+      <td style="text-align: left"><strong>HS-Pose: Hybrid Scope Feature Extraction for Category-level Object Pose Estimation</strong> <br /> Linfang Zheng, Chen Wang, <strong>Yinghan Sun</strong>, Esha Dasgupta, Hua Chen, Aleš Leonardis, Wei Zhang, Hyung Jin Chang <br /> CVPR, 2023 <br /> <a href="https://lynne-zheng-linfang.github.io/hspose.github.io/">[project page]</a> <a href="https://lynne-zheng-linfang.github.io/hspose.github.io/static/pdfs/main_paper.pdf">[paper]</a> <a href="https://github.com/Lynne-Zheng-Linfang/HS-Pose">[code]</a> <a href="https://www.youtube.com/watch?v=ctCuALHDk0Y&amp;t=3s">[video]</a></td>
     </tr>
   </tbody>
 </table>
 
-<h2 id="projects">Projects</h2>
+<h2 id="selected-projects">Selected Projects</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Overview</th>
+      <th style="text-align: left"><center>Information</center></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="/images/projects/trotting10_mujoco.gif" alt="" /></td>
+      <td style="text-align: left"><strong>Quadruped Locomotion Using Convex Model Predictive Control</strong> <br /> Implemented the MIT’s solution using Python. <br /> <a href="https://github.com/yinghansun/pympc-quadruped">[code]</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><img src="/images/projects/3dof_ball_on_plates.gif" alt="" /></td>
+      <td style="text-align: left"><strong>3-DoF Ball on Plate Using Closed Loop Stepper Motors</strong> <br /> <small>Yinghan Sun, Daifeng Li, Shilong Yao <br /> Course project in ME425 Sensing Technology, SUSTech</small></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><img src="/images/projects/climbing_robot.gif" alt="" /></td>
+      <td style="text-align: left"><strong>A Gecko-inspired Soft-and-rigid Climbing Robot</strong> <br /> <small>Yinghan Sun, Zhuotong Yu, Yichen Song, Shaoqian Li, Bowen Shen</small> <br /> <small>Course project in ME337 Advanced Actuation for Robots, SUSTech</small></td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 id="teaching">Teaching</h2>
 <ul>
-  <li>
-    <p><strong>Teaching assistant</strong> in ME424 Modern Control and Estimation, SUSTech.</p>
-
-    <p><em>Course introduction</em>: This course will introduce the students to the fundamental concepts and methods in modern control and estimation theory. Topics include state-space modeling of dynamical systems, least-square estimation and system identification, state-feedback and output-feedback controller design, observer design, linear quadratic regulators, and Kalman filter. The course will also connect these control and estimation methods to applications in robotics, mechanical, electrical, and aerospace systems.</p>
-
-    <p><a href="https://www.wzhanglab.site/teaching/moderncontrolestimation/">[course website]</a> <a href="https://www.youtube.com/watch?v=7tt-SPHPAMM&amp;list=PLYkCanigA7S4N4FAXu4ABmwuC7yHDL6_v&amp;index=1">[recordings (Youtube)]</a> <a href="https://space.bilibili.com/474380277/channel/seriesdetail?sid=291615">[recordings (Bilibili)]</a></p>
-  </li>
+  <li><strong>Teaching assistant</strong> in ME424 Modern Control and Estimation, SUSTech.    <br />
+  <small><a href="https://www.wzhanglab.site/teaching/moderncontrolestimation/">[course website]</a> <a href="https://www.youtube.com/watch?v=7tt-SPHPAMM&amp;list=PLYkCanigA7S4N4FAXu4ABmwuC7yHDL6_v&amp;index=1">[recordings (Youtube)]</a> <a href="https://space.bilibili.com/474380277/channel/seriesdetail?sid=291615">[recordings (Bilibili)]</a></small><br />
+  <small><em>Course introduction</em>: This course will introduce the students to the fundamental concepts and methods in modern control and estimation theory. Topics include state-space modeling of dynamical systems, least-square estimation and system identification, state-feedback and output-feedback controller design, observer design, linear quadratic regulators, and Kalman filter. The course will also connect these control and estimation methods to applications in robotics, mechanical, electrical, and aerospace systems.</small></li>
 </ul>
 
         
