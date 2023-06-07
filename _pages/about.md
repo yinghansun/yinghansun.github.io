@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: # "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -36,6 +36,7 @@ Selected Projects
 | Overview | <center>Information |
 |:-:|:-------|
 | ![](/images/projects/trotting10_mujoco.gif) | **Quadruped Locomotion Using Convex Model Predictive Control** <br> Implemented the MIT's solution using Python. <br> [[code]](https://github.com/yinghansun/pympc-quadruped)|
+| ![](/images/projects/bipedal_switch_light.gif) | **Kinematics-Aware Bipedal Robot Switch Light** <br> </small>|
 | ![](/images/projects/3dof_ball_on_plates.gif) | **3-DoF Ball on Plate Using Closed Loop Stepper Motors** <br> <small>Yinghan Sun, Daifeng Li, Shilong Yao <br> Course project in ME425 Sensing Technology, SUSTech</small>|
 | ![](/images/projects/climbing_robot.gif) | **A Gecko-inspired Soft-and-rigid Climbing Robot** <br> <small>Yinghan Sun, Zhuotong Yu, Yichen Song, Shaoqian Li, Bowen Shen</small> <br> <small>Course project in ME337 Advanced Actuation for Robots, SUSTech</small>|
 

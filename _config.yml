@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yinghan Sun (孙英涵)"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yinghan Sun"
 description              : &description "personal description"
 url                      : https://yinghansun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
