@@ -70,12 +70,13 @@ Service and leadership
 * Currently signed in to 43 different slack teams -->
 
 
-English Version
+<!-- English Version
 ------
-------
-<embed src="{{ site.baseurl }}/files/paper1.pdf" width="600" height="700" type='application/pdf'> 
+------ -->
+Last updated: 2023/06/11
+<embed src="{{ site.baseurl }}/files/yinghansun_cv_en.pdf" width="600" height="700" type='application/pdf'> 
 
-Chinese Version
+<!-- Chinese Version
 ------
 ------
-<embed src="{{ site.baseurl }}/files/paper2.pdf" width="600" height="700" type='application/pdf'> 
+<embed src="{{ site.baseurl }}/files/paper2.pdf" width="600" height="700" type='application/pdf'>  -->
