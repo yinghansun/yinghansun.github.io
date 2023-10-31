@@ -73,7 +73,7 @@ Service and leadership
 <!-- English Version
 ------
 ------ -->
-Last updated: 2023/06/11
+Last updated: 2023/10/31
 <embed src="{{ site.baseurl }}/files/yinghansun_cv_en.pdf" width="600" height="700" type='application/pdf'> 
 
 <!-- Chinese Version
