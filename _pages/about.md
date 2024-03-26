@@ -26,7 +26,7 @@ table th:nth-of-type(2) {
 
 | Overview | <center>Information |
 |:-:|:-------|
-| ![](/images/publications/GeoReF.gif)| **GeoReF: Geometric Alignment Across Shape Variation for Category-level Object Pose Refinement** <br> co-author <br> CVPR, 2024 |
+| ![](/images/publications/GeoReF.gif)| **GeoReF: Geometric Alignment Across Shape Variation for Category-level Object Pose Refinement** <br> Linfang Zheng, Tze Ho Elden Tse, Chen Wang, **Yinghan Sun**, Esha Dasgupta, Hua Chen, Aleš Leonardis, Wei Zhang, Hyung Jin Chang <br> CVPR, 2024 |
 | ![](/images/publications/plane_segmentation.gif) | **Multi-Resolution Planar Region Extraction for Uneven Terrains** <br> **Yinghan Sun**, Linfang Zheng, Hua Chen, Wei Zhang <br> ICRA, 2024 <br> [[arXiv]](https://arxiv.org/pdf/2311.12562.pdf)|
 | ![](/images/publications/hs_pose_teaser.png) | **HS-Pose: Hybrid Scope Feature Extraction for Category-level Object Pose Estimation** <br> Linfang Zheng, Chen Wang, **Yinghan Sun**, Esha Dasgupta, Hua Chen, Aleš Leonardis, Wei Zhang, Hyung Jin Chang <br> CVPR, 2023 <br> [[project page]](https://lynne-zheng-linfang.github.io/hspose.github.io/) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_HS-Pose_Hybrid_Scope_Feature_Extraction_for_Category-Level_Object_Pose_Estimation_CVPR_2023_paper.pdf) [[arXiv]](https://arxiv.org/pdf/2303.15743.pdf) [[code]](https://github.com/Lynne-Zheng-Linfang/HS-Pose) [[video]](https://www.youtube.com/watch?v=ctCuALHDk0Y&t=3s)|
 
