@@ -15,3 +15,6 @@ redirect_from:
 )
 
 [[20220315] Policy Gradient Methods](/files/20220315 Policy Gradient Methods.pdf)
+
+[[20240530] Policy Gradient Methods in Deep Reinforcement Learning: Introduction and Implementation
+](/files/20240530 Guest Lecture Policy Gradient Methods Implementation.pdf)
